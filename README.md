@@ -30,11 +30,4 @@ Olá 🖖 me chamo [Guilherme Reis](https://www.linkedin.com/in/guilhermereis-de
 
 ### 🛠️ Linguagens e Ferramentas
 
-[![Frontend Technologies](https://skillicons.dev/icons?i=js,html,css,react,angular,vue)](https://skillicons.dev)
-[![Backend Technologies](https://skillicons.dev/icons?i=django,flask,rails,laravel,node,spring)](https://skillicons.dev)
-[![Mobile Development](https://skillicons.dev/icons?i=flutter,reactnative,xamarin)](https://skillicons.dev)
-[![Tools and Practices](https://skillicons.dev/icons?i=git,cicd,serverless,webpack)](https://skillicons.dev)
-[![Cloud and Serverless](https://skillicons.dev/icons?i=aws,azure,gcp,firebase,heroku,docker,kubernetes)](https://skillicons.dev)
-[![Other Tools](https://skillicons.dev/icons?i=jquery,haml,java,python,csharp,ruby,php,typescript,dart,unity,unreal,vscode,atom,apache,nginx)](https://skillicons.dev)
-[![Testing and QA](https://skillicons.dev/icons?i=junit,jest,appium,postman)](https://skillicons.dev)
-[![Machine Learning and AI](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,scikitlearn,keras,kafka)](https://skillicons.dev)
+[![Frontend Technologies](https://skillicons.dev/icons?i=js,html,css,react,angular,vue,django,flask,rails,laravel,nodejs,spring,flutter,react,git,aws,azure,gcp,firebase,heroku,docker,kubernetes,jquery,haml,java,python,csharp,ruby,php,typescript,dart,unity,unreal,vscode,atom,apache,nginx,junit,jest,appium,postman,tensorflow,pytorch,opencv,scikitlearn,keras,kafka&perline=3)](https://skillicons.dev)
