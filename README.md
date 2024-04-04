@@ -30,4 +30,4 @@ Olá 🖖 me chamo [Guilherme Reis](https://www.linkedin.com/in/guilhermereis-de
 
 ### 🛠️ Linguagens e Ferramentas
 
-[![Frontend Technologies](https://skillicons.dev/icons?i=js,html,css,react,angular,vue,django,flask,rails,laravel,nodejs,spring,flutter,react,git,aws,azure,gcp,firebase,heroku,docker,kubernetes,jquery,haml,java,python,csharp,ruby,php,typescript,dart,unity,unreal,vscode,atom,apache,nginx,junit,jest,appium,postman,tensorflow,pytorch,opencv,scikitlearn,keras,kafka&perline=3)](https://skillicons.dev)
+[![Frontend Technologies](https://skillicons.dev/icons?i=js,html,css,react,angular,vue,django,flask,rails,laravel,nodejs,spring,flutter,react,git,aws,azure,gcp,firebase,heroku,docker,kubernetes,jquery,haml,java,python,csharp,ruby,php,typescript,dart,unity,unreal,vscode,atom,apache,nginx,junit,jest,appium,postman,tensorflow,pytorch,opencv,scikitlearn,keras,kafka)](https://skillicons.dev)
