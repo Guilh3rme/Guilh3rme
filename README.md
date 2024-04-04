@@ -29,92 +29,12 @@ Olá 🖖 me chamo [Guilherme Reis](https://www.linkedin.com/in/guilhermereis-de
 - 📚 Comprometido com o aprendizado contínuo e atualização com as tendências do setor
 
 ### 🛠️ Linguagens e Ferramentas
-### Frontend Technologies:
-- <img src="https://img.icons8.com/color/48/000000/html-5.png"/> HTML
-- <img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS
-- <img src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript
-- <img src="https://img.icons8.com/color/48/000000/typescript.png"/> TypeScript
-- <img src="https://img.icons8.com/color/48/000000/react-native.png"/> React.js
-- <img src="https://img.icons8.com/color/48/000000/angularjs.png"/> Angular
-- <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> Vue.js
-- Single Page Applications (SPA)
-- <img src="https://img.icons8.com/color/48/000000/tailwind-css.png"/> TailwindCSS
-- Figma
-- Frontend testing tools: 
-  - <img src="https://img.icons8.com/color/48/000000/cypress.png"/> Cypress
-  - <img src="https://img.icons8.com/color/48/000000/jest.png"/> Jest
-- Component-oriented development and Storybook
-- Strong understanding of UX best practices
 
-### Backend Technologies:
-- <img src="https://img.icons8.com/color/48/000000/django.png"/> Django
-- Flask
-- Ruby on Rails
-- Laravel
-- Express.js
-- Spring Boot
-- Node.js
-- Server-side APIs (REST, GraphQL)
-- Databases: 
-  - MySQL
-  - PostgreSQL
-  - MongoDB
-  - SQLite
-  - Cassandra
-  - Microsoft SQL Server
-  - Oracle Database
-
-### Mobile Development:
-- <img src="https://img.icons8.com/color/48/000000/flutter.png"/> Flutter
-- <img src="https://img.icons8.com/ios-filled/48/000000/react-native.png"/> React Native
-- Xamarin
-
-### Tools and Practices:
-- Git for version control
-- CI/CD Pipelines
-- Familiarity with Serverless framework
-- Webpack
-
-### Cloud and Serverless:
-- Amazon Web Services (AWS)
-- Microsoft Azure
-- Google Cloud Platform (GCP)
-- Firebase
-- Heroku
-- Docker
-- Kubernetes
-
-### Other Tools:
-- jQuery
-- Haml
-- Programming languages: 
-  - Java
-  - Python
-  - C#
-  - Ruby
-  - PHP
-  - TypeScript
-  - Dart
-- Game development: 
-  - Unity
-  - Unreal Engine
-- Text editors: 
-  - Visual Studio Code
-  - Atom
-- Web servers: 
-  - Apache HTTP Server
-  - Nginx
-
-### Testing and QA:
-- JUnit
-- Jest
-- Appium
-- Postman
-
-### Machine Learning and AI:
-- TensorFlow
-- PyTorch
-- OpenCV
-- Scikit-learn
-- Keras
-- Apache Kafka
+[![Frontend Technologies](https://skillicons.dev/icons?i=js,html,css,react,angular,vue)](https://skillicons.dev)
+[![Backend Technologies](https://skillicons.dev/icons?i=django,flask,rails,laravel,node,spring)](https://skillicons.dev)
+[![Mobile Development](https://skillicons.dev/icons?i=flutter,reactnative,xamarin)](https://skillicons.dev)
+[![Tools and Practices](https://skillicons.dev/icons?i=git,cicd,serverless,webpack)](https://skillicons.dev)
+[![Cloud and Serverless](https://skillicons.dev/icons?i=aws,azure,gcp,firebase,heroku,docker,kubernetes)](https://skillicons.dev)
+[![Other Tools](https://skillicons.dev/icons?i=jquery,haml,java,python,csharp,ruby,php,typescript,dart,unity,unreal,vscode,atom,apache,nginx)](https://skillicons.dev)
+[![Testing and QA](https://skillicons.dev/icons?i=junit,jest,appium,postman)](https://skillicons.dev)
+[![Machine Learning and AI](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,scikitlearn,keras,kafka)](https://skillicons.dev)
