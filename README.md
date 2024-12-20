@@ -13,7 +13,7 @@ Olá 🖖 me chamo [Guilherme Ferreira dos Reis](https://www.linkedin.com/in/gui
 - 🛠️ Arquiteto de Soluções com ênfase em Machine Learning e Data Science
 - 🚀 Experiência no desenvolvimento de mais de 15 aplicativos full-stack
 - 📊 Criação de dashboards interativos e pipelines de dados
-- ☁️ Experiência com plataformas de nuvem como AWS, GCP e Azure
+- ☁️ Experiência em plataformas de nuvem como AWS e Azure
 - 🔄 Implementação de CI/CD e arquitetura Serverless
 - 🤖 Integração de modelos de Machine Learning em soluções empresariais
 - 💬 Forte habilidade em colaboração, liderança e resolução de problemas
@@ -46,6 +46,8 @@ Olá 🖖 me chamo [Guilherme Ferreira dos Reis](https://www.linkedin.com/in/gui
 
 ### 🌐 Formação Acadêmica
 
-- **Pós-Graduação em Arquitetura de Software e Ciência de Dados** - PUCPR (Setembro 2024 - Setembro 2025)
+- **Mestrado em Ciência da Computação** - UFMA (Interrompido)
+- **Pós-Graduação em Arquitetura de Software, Ciência de Dados e Cibersegurança** - PUCPR (Setembro 2024 - Setembro 2025)
+- **Pós-Graduação em Inteligência Artificial** - UNDB (Janeiro 2024 - Fevereiro 2025)
 - **Bacharelado em Engenharia de Software** - UNDB (Janeiro 2020 - Junho 2024)
-- **Bacharelado em Ciência, Tecnologia e Sociedade** - UFMA (Janeiro 2020 - Junho 2023)
+- **Bacharelado em Ciência, Tecnologia e Sociedade** - UFMA (Janeiro 2017 - Junho 2022)
