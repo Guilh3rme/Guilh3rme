@@ -6,7 +6,7 @@
 </div>
 &nbsp;
 
-Olá 🖖 me chamo [Guilherme Ferreira dos Reis](https://www.linkedin.com/in/guilhermereis-dev/). Sou Arquiteto de Soluções, Cientista de Dados e Engenheiro de Software com mais de 4 anos de experiência no desenvolvimento de soluções de software orientadas por dados. Sou apaixonado por inovação e uso da tecnologia para resolver problemas reais. Atualmente, sou mestrando em Ciência da Computação na [UFMA](https://portalpadrao.ufma.br/).
+Olá 🖖 me chamo [Guilherme Ferreira dos Reis](https://www.linkedin.com/in/guilhermereis-dev/). Sou Arquiteto de Soluções, Cientista de Dados e Engenheiro de Software com mais de 4 anos de experiência no desenvolvimento de soluções de software orientadas por dados. Sou apaixonado por inovação e uso da tecnologia para resolver problemas reais.
 
 ## 👨‍🚀 Meu perfil
 
