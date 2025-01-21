@@ -23,19 +23,15 @@ Olá 🖖 me chamo [Guilherme Ferreira dos Reis](https://www.linkedin.com/in/gui
 
 [![Frontend Technologies](https://skillicons.dev/icons?i=js,html,css,react,nodejs,php,python,java,ruby,typescript,django,flask,rails,laravel,spring,postgres,aws,gcp,azure,docker,kubernetes,tensorflow,pytorch,scikitlearn)](https://skillicons.dev)
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guilh3rme&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilh3rme&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 ### 🚀 Experiência Profissional
 
 - **Assessor de Planejamento, Governança e Inovação** - EMSERH (Setembro 2024 - Presente)
   - Liderança na criação de plataformas digitais de saúde que aumentaram a eficiência operacional em 23%.
-
-- **Full-stack Developer** - Software House UNDB (Janeiro 2021 - Presente)
+  - 
+- **Engenheiro de Dados** - Software House UNDB (Janeiro 2022 - Dezembro 2024)
+  - Foco em construção de pipelines, implementação de modelos de machine learning e entrega de soluções de dados avançadas.
+  - 
+- **Full-stack Developer** - Software House UNDB (Janeiro 2021 - Dezembro 2021)
   - Desenvolvimento de mais de 15 aplicativos com aumento significativo no engajamento e operações de negócios.
 
 - **Estagiário de Melhoria Contínua** - ALUMAR (Maio 2023 - Dezembro 2023)
@@ -48,6 +44,6 @@ Olá 🖖 me chamo [Guilherme Ferreira dos Reis](https://www.linkedin.com/in/gui
 
 - **Mestrado em Ciência da Computação** - UFMA (Interrompido)
 - **Pós-Graduação em Arquitetura de Software, Ciência de Dados e Cibersegurança** - PUCPR (Setembro 2024 - Setembro 2025)
-- **Pós-Graduação em Inteligência Artificial** - UNDB (Janeiro 2024 - Fevereiro 2025)
-- **Bacharelado em Engenharia de Software** - UNDB (Janeiro 2020 - Junho 2024)
-- **Bacharelado em Ciência, Tecnologia e Sociedade** - UFMA (Janeiro 2017 - Junho 2022)
+- **Pós-Graduação em Inteligência Artificial** - UNDB (Concluído)
+- **Bacharelado em Engenharia de Software** - UNDB (Concluído)
+- **Bacharelado em Ciência, Tecnologia e Sociedade** - UFMA (Concluído)
