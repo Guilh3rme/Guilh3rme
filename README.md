@@ -27,10 +27,10 @@ Olá 🖖 me chamo [Guilherme Ferreira dos Reis](https://www.linkedin.com/in/gui
 
 - **Assessor de Planejamento, Governança e Inovação** - EMSERH (Setembro 2024 - Presente)
   - Liderança na criação de plataformas digitais de saúde que aumentaram a eficiência operacional em 23%.
-  - 
+    
 - **Engenheiro de Dados** - Software House UNDB (Janeiro 2022 - Dezembro 2024)
   - Foco em construção de pipelines, implementação de modelos de machine learning e entrega de soluções de dados avançadas.
-  - 
+    
 - **Full-stack Developer** - Software House UNDB (Janeiro 2021 - Dezembro 2021)
   - Desenvolvimento de mais de 15 aplicativos com aumento significativo no engajamento e operações de negócios.
 
