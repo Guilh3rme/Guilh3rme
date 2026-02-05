@@ -1,49 +1,132 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hello World
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hello, I'm Guilherme Reis
 
-<div> 
+**Software Engineer | Data-Driven Architectures | Cloud-Native**
+
+<div>
   <a href="https://www.linkedin.com/in/guilhermereis-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:guilhermereisefr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-d00000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://orcid.org/0009-0004-3111-6724" target="_blank"><img src="https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" target="_blank"></a>
+  <a href="http://lattes.cnpq.br/7357436956365520" target="_blank"><img src="https://img.shields.io/badge/-Lattes-004080?style=for-the-badge&logo=bookstack&logoColor=white" target="_blank"></a>
 </div>
-&nbsp;
 
-Olá 🖖 me chamo [Guilherme Ferreira dos Reis](https://www.linkedin.com/in/guilhermereis-dev/). Sou Arquiteto de Soluções, Cientista de Dados e Engenheiro de Software com mais de 4 anos de experiência no desenvolvimento de soluções de software orientadas por dados. Sou apaixonado por inovação e uso da tecnologia para resolver problemas reais.
+---
 
-## 👨‍🚀 Meu perfil
+### About Me
 
-- 🛠️ Arquiteto de Soluções com ênfase em Machine Learning e Data Science
-- 🚀 Experiência no desenvolvimento de mais de 15 aplicativos full-stack
-- 📊 Criação de dashboards interativos e pipelines de dados
-- ☁️ Experiência em plataformas de nuvem como AWS e Azure
-- 🔄 Implementação de CI/CD e arquitetura Serverless
-- 🤖 Integração de modelos de Machine Learning em soluções empresariais
-- 💬 Forte habilidade em colaboração, liderança e resolução de problemas
-- 📚 Comprometido com a aprendizagem contínua e atualização tecnológica
+Software Engineer and University Professor with strong expertise in backend development, distributed systems integration, and data-driven architectures in cloud-native environments (AWS, GCP, Azure). Solid experience building robust APIs, scalable data pipelines, async messaging, and high-reliability backend services focused on performance, security, and observability.
 
-### 🛠️ Linguagens e Ferramentas
+Consistent track record in data modeling, query optimization, API contract design, multi-platform integration, and end-to-end workflow automation. History of delivering critical solutions across healthcare, industry, education, and public sector domains, applying software engineering best practices, CI/CD, governance, and regulatory compliance (LGPD), including Data Protection Officer (DPO) certification.
 
-[![Frontend Technologies](https://skillicons.dev/icons?i=js,html,css,react,nodejs,php,python,java,ruby,typescript,django,flask,rails,laravel,spring,postgres,aws,gcp,azure,docker,kubernetes,tensorflow,pytorch,scikitlearn)](https://skillicons.dev)
+<details>
+<summary><b>Sobre Mim (Portugues)</b></summary>
+<br>
+Engenheiro de Software e Professor Universitario, com forte atuacao em desenvolvimento backend, integracao de sistemas distribuidos e arquiteturas orientadas a dados em ambientes cloud-native (AWS, GCP e Azure). Experiencia solida na construcao de APIs robustas, pipelines de dados escalaveis, mensageria assincrona e servicos backend de alta confiabilidade, com foco em performance, seguranca e observabilidade.
 
-### 🚀 Experiência Profissional
+Atuacao consistente em modelagem de dados, otimizacao de consultas, desenho de contratos de APIs, integracao entre multiplas plataformas e automacao de fluxos end-to-end. Historico de entrega de solucoes criticas em contextos de saude, industria, educacao e setor publico, com aplicacao de boas praticas de engenharia de software, CI/CD, governanca e conformidade regulatoria (LGPD), incluindo certificacao em Data Protection Officer (DPO).
+</details>
 
-- **Assessor de Planejamento, Governança e Inovação** - EMSERH (Setembro 2024 - Presente)
-  - Liderança na criação de plataformas digitais de saúde que aumentaram a eficiência operacional em 23%.
-    
-- **Engenheiro de Dados** - Software House UNDB (Janeiro 2022 - Dezembro 2024)
-  - Foco em construção de pipelines, implementação de modelos de machine learning e entrega de soluções de dados avançadas.
-    
-- **Full-stack Developer** - Software House UNDB (Janeiro 2021 - Dezembro 2021)
-  - Desenvolvimento de mais de 15 aplicativos com aumento significativo no engajamento e operações de negócios.
+---
 
-- **Estagiário de Melhoria Contínua** - ALUMAR (Maio 2023 - Dezembro 2023)
-  - Otimização de processos empresariais, gerando economias anuais e melhoria da produtividade.
+### Tech Stack
 
-- **Programador de Sistemas** - HATCH (Novembro 2021 - Outubro 2022)
-  - Automação de processos e desenvolvimento de pipelines de dados, reduzindo esforços manuais em 47%.
+**Backend & APIs**
 
-### 🌐 Formação Acadêmica
+[![Backend](https://skillicons.dev/icons?i=python,java,typescript,nodejs,spring,laravel,php)](https://skillicons.dev)
 
-- **Mestrado em Ciência da Computação** - UFMA (Interrompido)
-- **Pós-Graduação em Arquitetura de Software, Ciência de Dados e Cibersegurança** - PUCPR (Setembro 2024 - Setembro 2025)
-- **Pós-Graduação em Inteligência Artificial** - UNDB (Concluído)
-- **Bacharelado em Engenharia de Software** - UNDB (Concluído)
-- **Bacharelado em Ciência, Tecnologia e Sociedade** - UFMA (Concluído)
+**Data & ML**
+
+[![Data](https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,kafka)](https://skillicons.dev)
+
+**Cloud**
+
+[![Cloud](https://skillicons.dev/icons?i=aws,gcp,azure)](https://skillicons.dev)
+
+**Databases**
+
+[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,redis)](https://skillicons.dev)
+
+**DevOps & Infrastructure**
+
+[![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,terraform,git,jenkins,gitlab)](https://skillicons.dev)
+
+**Frontend**
+
+[![Frontend](https://skillicons.dev/icons?i=react,js,html,css)](https://skillicons.dev)
+
+---
+
+### Professional Experience
+
+**University Professor** - UNDB (Centro Universitario Dom Bosco)
+`Feb 2025 - Present`
+- Teaching Software Engineering and Data Science, connecting academic foundations to industry practices (architecture, data, MLOps)
+- Mentoring students and thesis projects in AI and Computer Vision, from problem definition to prototype validation
+- Mentoring at the university's Software House on scope, architecture, coding standards, and delivery practices
+
+**Data Engineer** - Localiza Labs (Localiza&Co)
+`Mar 2025 - Nov 2025`
+- Designed and implemented data pipelines with Medallion architecture (Bronze/Silver/Gold), integrated with backend services and API/analytics consumption layers
+- Cross-cloud integration (AWS and GCP) using Glue, Athena, BigQuery, and Composer, ensuring consistency and scalability
+- Implemented Data Quality, observability, and validation practices aligned with business requirements
+- Optimized jobs and queries with focus on performance, latency reduction, and cost control
+
+**Innovation & Governance Advisor** - EMSERH
+`Sep 2024 - Mar 2025`
+- Structured data integration pipelines for Brazil's public healthcare system (SUS), improving data availability for management
+- Developed Power BI dashboards and KPIs for hospital management, consolidating operational and executive indicators
+- Applied analytical and predictive models for resource allocation and prioritization
+
+**Data Engineer (promoted) / Full-stack Developer** - Software House UNDB
+`Jan 2022 - Jul 2025`
+- Optimized pipelines and services, achieving **75% reduction** in processing time through architecture and query improvements
+- Implemented and deployed ML models integrated with backends and APIs, improving data-driven decision accuracy by **21%**
+- Delivered **15+ integrated applications** combining backend services, APIs, databases, and web interfaces
+- Deployed CI/CD pipelines automating testing and deployment of backend services
+
+**Systems Programmer** - HATCH (Alcoa Project)
+`Nov 2021 - Oct 2022`
+- Developed Azure Cloud solutions for industrial safety, integrating data for risk monitoring and decision support
+- Automated reports and processes with Power Automate, reducing operational effort and standardizing recurring deliveries
+
+---
+
+### Education
+
+| Degree | Institution |
+|--------|-------------|
+| M.Sc. Computer Engineering and Systems *(in progress)* | UEMA |
+| Postgrad. Software Architecture, Data Science & Cybersecurity | PUCPR |
+| Postgrad. Artificial Intelligence | UNDB |
+| B.Sc. Software Engineering | UNDB |
+| B.Sc. Science and Technology | UFMA |
+
+---
+
+### Research & Publications
+
+- **PPE Detection using YOLOv8** - Automatic detection of personal protective equipment in industrial environments using computer vision (XVI UNDB Scientific Conference, 2023)
+- **OCR for Plagiarism Detection** - Study and implementation of optical character recognition models for plagiarism detection in academic documents (XVI UNDB Scientific Conference, 2023)
+- **Coordinator** - LAIC (Academic League of Artificial Intelligence and Data Science), 2023-2024
+
+---
+
+### GitHub Stats
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Guilh3rme&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilh3rme&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilh3rme&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+---
+
+<div align="center">
+
+  **Languages:** English (Advanced/Fluent) | Portuguese (Native) | Spanish (Intermediate)
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=Guilh3rme&color=blue&style=flat-square)
+
+</div>
