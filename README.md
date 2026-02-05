@@ -1,6 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hello, I'm Guilherme Reis
 
-**Software Engineer | Data-Driven Architectures | Cloud-Native**
+**Full-stack Software Engineer | Data-Driven Architectures | Cloud-Native**
 
 <div>
   <a href="https://www.linkedin.com/in/guilhermereis-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -13,16 +13,20 @@
 
 ### About Me
 
-Software Engineer and University Professor with strong expertise in backend development, distributed systems integration, and data-driven architectures in cloud-native environments (AWS, GCP, Azure). Solid experience building robust APIs, scalable data pipelines, async messaging, and high-reliability backend services focused on performance, security, and observability.
+Full-stack Software Engineer and University Professor with 4+ years of experience designing and delivering end-to-end solutions — from responsive frontend interfaces to scalable backend services and data-driven architectures in cloud-native environments (AWS, GCP, Azure). Proven track record across healthcare, industry, education, and public sector domains.
 
-Consistent track record in data modeling, query optimization, API contract design, multi-platform integration, and end-to-end workflow automation. History of delivering critical solutions across healthcare, industry, education, and public sector domains, applying software engineering best practices, CI/CD, governance, and regulatory compliance (LGPD), including Data Protection Officer (DPO) certification.
+On the backend, solid expertise building RESTful APIs, microservices, scalable data pipelines, async messaging (Kafka), and high-reliability services using Node.js, Java with Spring Boot, Python, and PHP with Laravel — with focus on Clean Architecture, DDD, SOLID principles, performance, security, and observability.
+
+On the frontend, experienced in building React single-page applications (SPAs) with reusable component libraries, state management, responsive design, and REST API integration — delivering product-oriented web interfaces that drive user engagement and business outcomes. Complemented by strong CI/CD practices, governance, regulatory compliance (LGPD), and Data Protection Officer (DPO) certification.
 
 <details>
 <summary><b>Sobre Mim (Portugues)</b></summary>
 <br>
-Engenheiro de Software e Professor Universitario, com forte atuacao em desenvolvimento backend, integracao de sistemas distribuidos e arquiteturas orientadas a dados em ambientes cloud-native (AWS, GCP e Azure). Experiencia solida na construcao de APIs robustas, pipelines de dados escalaveis, mensageria assincrona e servicos backend de alta confiabilidade, com foco em performance, seguranca e observabilidade.
+Engenheiro de Software Full-stack e Professor Universitario com mais de 4 anos de experiencia projetando e entregando solucoes completas — de interfaces frontend responsivas a servicos backend escalaveis e arquiteturas orientadas a dados em ambientes cloud-native (AWS, GCP e Azure). Historico comprovado em saude, industria, educacao e setor publico.
 
-Atuacao consistente em modelagem de dados, otimizacao de consultas, desenho de contratos de APIs, integracao entre multiplas plataformas e automacao de fluxos end-to-end. Historico de entrega de solucoes criticas em contextos de saude, industria, educacao e setor publico, com aplicacao de boas praticas de engenharia de software, CI/CD, governanca e conformidade regulatoria (LGPD), incluindo certificacao em Data Protection Officer (DPO).
+No backend, experiencia solida construindo APIs RESTful, microsservicos, pipelines de dados escalaveis, mensageria assincrona (Kafka) e servicos de alta confiabilidade com Node.js, Java com Spring Boot, Python e PHP com Laravel — com foco em Clean Architecture, DDD, principios SOLID, performance, seguranca e observabilidade.
+
+No frontend, experiencia em construcao de aplicacoes React single-page (SPAs) com bibliotecas de componentes reutilizaveis, gerenciamento de estado, design responsivo e integracao com APIs REST — entregando interfaces web orientadas a produto que impulsionam engajamento e resultados de negocio. Complementado por fortes praticas de CI/CD, governanca, conformidade regulatoria (LGPD) e certificacao de Data Protection Officer (DPO).
 </details>
 
 ---
@@ -32,6 +36,10 @@ Atuacao consistente em modelagem de dados, otimizacao de consultas, desenho de c
 **Backend & APIs**
 
 [![Backend](https://skillicons.dev/icons?i=python,java,typescript,nodejs,spring,laravel,php)](https://skillicons.dev)
+
+**Frontend**
+
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind)](https://skillicons.dev)
 
 **Data & ML**
 
@@ -49,9 +57,18 @@ Atuacao consistente em modelagem de dados, otimizacao de consultas, desenho de c
 
 [![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,terraform,git,jenkins,gitlab)](https://skillicons.dev)
 
-**Frontend**
+<details>
+<summary><b>Core Competencies (full list)</b></summary>
+<br>
 
-[![Frontend](https://skillicons.dev/icons?i=react,js,html,css)](https://skillicons.dev)
+**Backend:** Python, Java, TypeScript, Node.js, Spring Boot, Laravel, PHP, REST APIs, GraphQL, Microservices, Clean Architecture, DDD, SOLID<br>
+**Frontend:** React, Next.js, JavaScript, HTML5, CSS3, Tailwind CSS, SPA, State Management, Responsive Design, Component Architecture, UI/UX<br>
+**Data & ML:** Spark/PySpark, Apache Airflow, Kafka, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, ETL/ELT, Data Warehouse, Medallion Architecture<br>
+**Cloud:** AWS (S3, Glue, Lambda, Athena), GCP (BigQuery, Composer), Azure (Data Factory)<br>
+**Databases:** PostgreSQL, MongoDB, Redis, SQL (CTEs, Window Functions, Query Tuning), Data Modeling<br>
+**DevOps:** Docker, Kubernetes, Terraform, CI/CD (GitLab CI, Jenkins), Git, Observability, Infrastructure as Code
+
+</details>
 
 ---
 
@@ -78,15 +95,18 @@ Atuacao consistente em modelagem de dados, otimizacao de consultas, desenho de c
 
 **Data Engineer (promoted) / Full-stack Developer** - Software House UNDB
 `Jan 2022 - Jul 2025`
-- Optimized pipelines and services, achieving **75% reduction** in processing time through architecture and query improvements
+- Delivered **15+ full-stack applications** combining React frontend interfaces, backend services (Node.js, Spring Boot, Laravel), RESTful APIs, and relational/NoSQL databases
+- Built responsive React SPAs with reusable component libraries, state management, and REST API integration for product-oriented web applications
+- Designed and developed RESTful APIs with versioning, contract documentation, authentication (RBAC), and integration with corporate systems and cloud services
+- Optimized data pipelines and backend services, achieving **75% reduction** in processing time through architecture, query tuning, and flow redesign
 - Implemented and deployed ML models integrated with backends and APIs, improving data-driven decision accuracy by **21%**
-- Delivered **15+ integrated applications** combining backend services, APIs, databases, and web interfaces
-- Deployed CI/CD pipelines automating testing and deployment of backend services
+- Deployed CI/CD pipelines automating testing and deployment across frontend and backend services
 
 **Systems Programmer** - HATCH (Alcoa Project)
 `Nov 2021 - Oct 2022`
-- Developed Azure Cloud solutions for industrial safety, integrating data for risk monitoring and decision support
-- Automated reports and processes with Power Automate, reducing operational effort and standardizing recurring deliveries
+- Developed Azure Cloud solutions for industrial safety, building dashboards and data integrations for risk monitoring and decision support
+- Automated reports and operational workflows with Power Automate, reducing manual effort and standardizing recurring deliveries
+- Supported autonomous risk monitoring systems, improving operational visibility and information delivery speed
 
 ---
 
