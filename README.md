@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <em>4+ years building production-grade APIs and cloud-native backends — deploying Computer Vision, LLM/GenAI, and predictive ML systems as real product features, not notebooks.</em>
+  <em>6+ years building production-grade APIs and cloud-native backends — deploying Computer Vision, LLM/GenAI, and predictive ML systems as real product features, not notebooks.</em>
 </p>
 
 <p align="center">
